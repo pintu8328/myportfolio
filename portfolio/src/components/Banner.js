@@ -37,7 +37,7 @@ const Banner = () => {
                   </li>
                   <li>
                     <a
-                      href=""
+                      href="https://twitter.com/PintuGo65780560"
                       target="_blank"
                    
                     >

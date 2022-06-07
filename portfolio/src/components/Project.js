@@ -13,7 +13,7 @@ const Project = () => {
       img: "./images/Maxfashion.png",
       link: "https://leafy-sorbet-dccc4d.netlify.app/",
       repolink: "https://github.com/kakashi10-23/Max-clone",
-      p:"Max brings international fashion and value to discerning shoppers in over 325 stores across 16 countries.Max offers apparel, footwear and accessories for the entire family - women, men and children. We build this website using ReactJS"
+      p:"Max brings international fashion and value to discerning shoppers in over 325 stores across 16 countries.Max offers apparel, footwear and accessories for the entire family - women, men and children. We build this website using Html,CSS,Js and ReactJS"
     },
     {
       id: 2,

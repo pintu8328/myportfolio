@@ -2,7 +2,7 @@ import React from "react";
 import {
   FaHtml5,
   FaCss3,
-  FaJava,
+  FaJs,
   FaReact,
   FaNodeJs,
   FaLeaf,
@@ -25,7 +25,7 @@ const Skills = () => {
     },
     {
       id: 3,
-      icon: <FaJava className="commonIcons" />,
+      icon: <FaJs className="commonIcons" />,
       heading: "JavaScript",
     },
     {
