@@ -51,20 +51,20 @@ const Contact = () => {
                     <FaLinkedinIn className="headerIcon" />
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="https://www.facebook.com/home.php" target="_blank">
                     <FaFacebookF className="headerIcon" />
                   </a>
-                </li>
+                </li> */}
 
-                <li>
+                {/* <li>
                   <a
                     href="https://www.instagram.com/pintuu_98/"
                     target="_blank"
                   >
                     <FaInstagram className="headerIcon" />
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>

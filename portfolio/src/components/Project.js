@@ -25,10 +25,10 @@ const Project = () => {
     },
     {
       id: 3,
-      heading: "Nature's Basket Clone",
+      heading: "Anthropologie Clone",
       img: "./images/nature.png",
-      link: "",
-      repolink: "https://github.com/pintu8328/project_natures",
+      link: "https://anthropologie-clone.netlify.app/",
+      repolink: "https://github.com/pintu8328/Anthropologie_clone",
       p:"Nature’s Basket is India’s pioneering food destination present through physical retail stores, online portal and a mobile application. Our footprint currently extends to over 35 neighbourhood convenience stores in Mumbai, Pune and Bangalore with a diverse product portfolio ranging from fresh fruits and vegetables, fish and meat, artisanal breads, FMCG and staples. I build this website using HTML, CSS, JavaScript. "
     },
   ]);
