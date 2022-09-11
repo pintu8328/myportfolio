@@ -9,7 +9,7 @@ const Banner = () => {
   const [state] = React.useState({
     title: "Pintu Gouda",
     text: "FULL-STACK WEB DEVELOPER",
-    image: "./images/myImg.png",
+    image: "./images/whatsapp.png",
   });
   return (
     <header id="Banner" className="header">
@@ -35,7 +35,7 @@ const Banner = () => {
                       <FaLinkedinIn className="headerIcon" />
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a
                       href="https://twitter.com/PintuGo65780560"
                       target="_blank"
@@ -43,7 +43,7 @@ const Banner = () => {
                     >
                       <FaTwitter className="headerIcon" />
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

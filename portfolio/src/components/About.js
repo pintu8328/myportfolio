@@ -23,16 +23,12 @@ const About = () => {
             <div className="about__info">
               <h1>Hi There</h1>
               <div className="about__info-p1">
-                I'm Pintu Gouda and I'm a web developer with a focus on the
-                MERN stack, but still exploring other technologies and
-                frameworks that catch my interest! if you're looking for a
-                developer to add to your team, I'd love to hear from you! Please
-                feel free to Contact me.
+              An aspiring full-stack developer with a specialization in MERN stack. Enthusiastic, hard-working, and passionate about coding. With the ability to contribute toward the organizational goal, looking forward to working as a software developer, and developing skills in a challenging work environment.
               </div>
 
               <div className="header__buttons myBtn">
                 <a
-                  href="https://drive.google.com/file/d/18dpUVU1-Y9g0rxLwsC9p-cM5Eyj6pIun/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1H4XVZa8C9XQUqxCri67P_44aizNtYYwt/view?usp=sharing"
                   target="_blank"
                  
                   className="btn btn-outline"

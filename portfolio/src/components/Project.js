@@ -15,14 +15,14 @@ const Project = () => {
       repolink: "https://github.com/kakashi10-23/Max-clone",
       p:"Max brings international fashion and value to discerning shoppers in over 325 stores across 16 countries.Max offers apparel, footwear and accessories for the entire family - women, men and children. We build this website using Html,CSS,Js and ReactJS"
     },
-    {
-      id: 2,
-      heading: "Purplle Clone",
-      img: "./images/Purplle.png",
-      link: "https://benevolent-cheesecake-c6b08b.netlify.app/",
-      repolink: "https://github.com/Vibhav-Mishra/Purplle-clone",
-      p:"Purplle is an online store selling cosmetics, fragrances, skin, and hair care products. It gives an online space to beauty and wellness needs that showcases some of the beauty brands and products.We try to build a American Eagle clone using Html, CSS, and JavaScript"
-    },
+    // {
+    //   id: 2,
+    //   heading: "Purplle Clone",
+    //   img: "./images/Purplle.png",
+    //   link: "https://benevolent-cheesecake-c6b08b.netlify.app/",
+    //   repolink: "https://github.com/Vibhav-Mishra/Purplle-clone",
+    //   p:"Purplle is an online store selling cosmetics, fragrances, skin, and hair care products. It gives an online space to beauty and wellness needs that showcases some of the beauty brands and products.We try to build a American Eagle clone using Html, CSS, and JavaScript"
+    // },
     {
       id: 3,
       heading: "Anthropologie Clone",
